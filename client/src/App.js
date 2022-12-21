@@ -2,6 +2,7 @@ import './App.css';
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar';
 import Home from './components/Landingpage/Home';
+import MidSection from './components/Landingpage/MidSection';
 import Footer from './components/Footer/Footer';
 import Login from './components/Authentication/Login';
 import Signup from './components/Authentication/Signup';
