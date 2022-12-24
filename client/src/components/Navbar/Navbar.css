@@ -1,0 +1,37 @@
+.navbar{
+  background-color:#ffff;
+ 
+  width: 100%;
+  height: 65px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-end;
+
+
+}
+.nav-wrap{
+  padding: 10px;
+  margin-bottom: 5px;
+}
+.navlink{
+ text-decoration: none;
+ margin: 5px;
+ padding: 5px;
+ border-radius: 10px;
+ color: #ff5800;
+}
+.navlink:hover{
+  color:#67239d;
+  background-color:#fff;
+}
+.navlink:active{
+  background-color:#f3f3f3;
+}
+.nav-title{
+  align-self: center;
+  margin-right: auto;
+  color: #ff5800; 
+  font-style: open;
+  margin-left: 20px;
+}

@@ -1,0 +1,27 @@
+.footer-wrap{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: fit-content;
+  padding-top:50px ;
+  background-color:#ffefe5;
+  color: #000;
+  margin-top: -100px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.footer-container li{
+  list-style: none;
+  font-size: large;
+  padding: 5px;
+}
+.legal{
+  background-color: #000;
+  text-align: center;
+  color: #ffff;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
