@@ -1,0 +1,39 @@
+.banner{
+  margin-top: 20px;
+}
+.banner-header{
+  border: 1px solid grey;
+  display: flex;
+  flex-direction: row;
+  /* align-items: center;
+  justify-content: center; */
+  /* flex-wrap: wrap; */
+}
+.banner-title{
+  width: 50%;
+  height: 500px;
+  border: 1px solid blue;
+  background-color:#ff3c00;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+}
+.banner-image{
+  width: 50%;
+  height:500px ;
+  border: 1px solid green;
+}
+.banner-image img{
+  height: 100%;
+  width: 100%;
+}
+.main-title{
+  padding: 20px;
+  margin-top: 50px;
+  color: #fff;
+  border: 1px solid black;
+  font-size:30px;
+  text-align: left;
+
+}
